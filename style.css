@@ -1,0 +1,77 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.heading{
+    font-size: 45px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+}
+.heading i{
+    float: right;
+    margin-left: 150px;
+}
+.movie-text span{
+    color: red;
+}
+.nnews li{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.nnews p{ 
+    font-size: 20px;
+}
+.nnews h3{
+    border-bottom: 2px red dotted;
+    padding: 5px;
+}
+.travellouge{
+    border: yellow solid 1px;
+    padding-left: 0;
+    padding-right: 0;
+    float: none;
+}
+.travellouge img{
+    width: 100%;
+}
+.travellouge h1, .travellouge h2, .travellouge p{
+margin-left: 20px;
+}
+.Books{
+    font-style: oblique;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: mediumaquamarine;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.modal-body{
+    text-align: center;
+}
+.pick{
+    display: inline-block;
+}
+.books{
+    cursor: pointer;
+}
+.modal-content{
+    margin-top: 100px;
+}
